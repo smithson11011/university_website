@@ -1,4 +1,45 @@
+
+
 .about_uni_button {
+    font-family: 'Oswald', sans-serif;
     margin-left: 30px;
-    padding: 10px 25px;
+    padding: 5px 40px;
+    margin-bottom: 0;
+}
+
+.enroll_info_button {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 30px;
+    padding: 5px 40px;
+}
+
+.student_info_button {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 30px;
+    padding: 5px 40px;
+}
+
+.campus_info_button {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 30px;
+    padding: 5px 40px;
+}
+
+.researcher_info_button {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 30px;
+    padding: 5px 40px;
+}
+
+.header_title {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 40px;
+}
+
+.first_para {
+    margin-top: 100px;
+}
+
+.second_para {
+    margin-top: 0;
 }
