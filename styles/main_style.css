@@ -2,33 +2,73 @@
 
 .about_uni_button {
     font-family: 'Oswald', sans-serif;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
     margin-left: 30px;
-    padding: 5px 40px;
+    padding: 10px 40px;
     margin-bottom: 0;
+    cursor: pointer;
+}
+
+.about_uni_button:active {
+    opacity: 80%;
 }
 
 .enroll_info_button {
     font-family: 'Oswald', sans-serif;
     margin-left: 30px;
-    padding: 5px 40px;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+
+.enroll_info_button:active {
+    opacity: 80%;
 }
 
 .student_info_button {
     font-family: 'Oswald', sans-serif;
     margin-left: 30px;
-    padding: 5px 40px;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+
+.student_info_button:active {
+    opacity: 80%;
 }
 
 .campus_info_button {
     font-family: 'Oswald', sans-serif;
     margin-left: 30px;
-    padding: 5px 40px;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+
+.campus_info_button:active {
+    opacity: 80%;
 }
 
 .researcher_info_button {
     font-family: 'Oswald', sans-serif;
     margin-left: 30px;
-    padding: 5px 40px;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 40px;
+    cursor: pointer;
+}
+
+.researcher_info_button:active {
+    opacity: 80%;
 }
 
 .header_title {
