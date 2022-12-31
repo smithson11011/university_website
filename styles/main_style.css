@@ -1,4 +1,8 @@
 
+body {
+    opacity: 0;
+    transition: opacity 1s;
+}
 
 .about_uni_button {
     font-family: 'Oswald', sans-serif;
@@ -9,10 +13,15 @@
     padding: 10px 40px;
     margin-bottom: 0;
     cursor: pointer;
+    transition: background-color 1s;
 }
 
 .about_uni_button:active {
     opacity: 80%;
+}
+
+.about_uni_button:hover {
+    background-color: #626161;
 }
 
 .enroll_info_button {
@@ -88,4 +97,7 @@
     font-family: 'Oswald', sans-serif;
     font-size: 20px;
     font-weight: bold;
+    transition: opacity 5s;
 }
+
+
