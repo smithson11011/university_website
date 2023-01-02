@@ -4,6 +4,27 @@ body {
     transition: opacity 1s;
 }
 
+.buttons_menu {
+    opacity: 100%;
+    transition: opacity 1s;
+}
+
+.hideMenu {
+    font-family: 'Oswald', sans-serif;
+    background-color: darkgrey;
+    border: none;
+    border-radius: 10px;
+    margin-left: -1000px;
+    padding: 10px 40px;
+    margin-bottom: 0;
+    cursor: pointer;
+    transition: background-color 1s, margin-left 2s;
+}
+
+.hideMenu:active {
+    opacity: 80%;
+}
+
 .about_uni_button {
     font-family: 'Oswald', sans-serif;
     background-color: darkgrey;
