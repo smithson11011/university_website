@@ -1,5 +1,6 @@
 
-let message = checkString(prompt('Как вас зовут?', `Алексей`))
+let message;
+// checkString(prompt('Как вас зовут?', `Алексей`))
 
 let hideMenuButton = document.getElementById('hideMenu');
 let nameIntro = document.getElementById('name_intro');

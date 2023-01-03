@@ -101,6 +101,12 @@ body {
     opacity: 80%;
 }
 
+.name_p {
+    font-family: 'Cormorant Garamond', serif;
+    color: black;
+    font-size: 18px;
+}
+
 .header_title {
     font-family: 'Cormorant Garamond', serif;
     font-size: 40px;
@@ -119,6 +125,12 @@ body {
     font-size: 20px;
     font-weight: bold;
     transition: opacity 5s;
+}
+
+
+.arpha_image {
+    width: 40px;
+    alignment: right;
 }
 
 
